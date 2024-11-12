@@ -118,11 +118,13 @@ a {
     
 }
 
-
+.section_four {
+    margin-top: 80px; 
+}
 
 .section_five {
     position: relative;
-    margin: 0 auto; 
+    margin-top: 80px; 
 }
 
 .section_five img {
