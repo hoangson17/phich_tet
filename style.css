@@ -260,6 +260,7 @@ a {
     border-radius: 8px;
     max-width: 400px;
     margin: auto;
+    margin-top: 80px;
 }
 .form-container h3 {
     font-weight: bold;
@@ -290,4 +291,14 @@ a {
 }
 .form-container .submit-button:hover {
     background-color: #c12727;
+}
+
+@media screen and (max-width: 575.98px) {
+    .section_nine .form-container {
+        padding: 20px;
+        border-radius: 8px;
+        max-width: 400px;
+        margin-top: 20px;
+    }
+    
 }
